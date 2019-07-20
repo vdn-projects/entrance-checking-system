@@ -3,7 +3,7 @@ This project aims at implementing an intelligent human resources management syst
 
 <p align="center">
     <image src="./images/system_overview.png" width="50%">
-    <div align="center">Data pipeline</div>
+    <div align="center">System overview</div>
 </p>
 
 Demo link: https://www.youtube.com/watch?v=MhpE4pdadtc
